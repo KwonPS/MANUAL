@@ -9,7 +9,8 @@ description: 검색 조건을 입력 및 선택하여 등록된 정산 상태를
 * [검색 조건](undefined-2.md#undefined)을 입력 및 선택하여 등록된 정산상태를 관리합니다.
 * 승인번호 \~ 소속 선택까지 12가지 [검색 조건](undefined-2.md#undefined)을 입력 및 선택할 수 있습니다.
 * [검색 결과](undefined-2.md#undefined-1)는 No \~ 리스크까지 17가지의 항목들로 구분됩니다.
-* 조회 결과 항목 중 매입번호를 클릭하여 [매입내역에 대한 상세정보](undefined-2.md#less-than-greater-than)를 조회할 수 있습니다.
+
+
 
 ### 검색 조건
 
