@@ -95,7 +95,7 @@ description: 검색 조건을 입력하여 매입 현황을 조회합니다.
 
 
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ***
 

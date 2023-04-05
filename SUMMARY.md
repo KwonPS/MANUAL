@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Dashboard](README.md)
+* [웹결제](web\_purchase.md)
 
 ## 가맹점 관리
 
